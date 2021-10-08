@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455532184674",
+    "project_id": "sprintdb-a764c",
+    "storage_bucket": "sprintdb-a764c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455532184674:android:3d4f509b8aabbdfa3c3d3b",
+        "android_client_info": {
+          "package_name": "com.string.db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455532184674-vke8d6t5bdirvsane6upva8pjvd1ti93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vDmfNWnSG-eNujUguOpTo0aaoKL6Wls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455532184674-vke8d6t5bdirvsane6upva8pjvd1ti93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
